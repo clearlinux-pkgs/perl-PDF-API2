@@ -1,0 +1,8 @@
+2.034
+perl(Devel::Cycle)
+perl(Font::TTF)
+perl(Font::TTF::Font)
+perl(Sub::Uplevel)
+perl(Test::Exception)
+perl(Test::Memory::Cycle)
+perl(Win32::TieRegistry)
