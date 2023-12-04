@@ -5,7 +5,7 @@
 #
 Name     : perl-PDF-API2
 Version  : 2.045
-Release  : 26
+Release  : 27
 URL      : https://cpan.metacpan.org/authors/id/S/SS/SSIMMS/PDF-API2-2.045.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/S/SS/SSIMMS/PDF-API2-2.045.tar.gz
 Summary  : 'Create, modify, and examine PDF files'
